@@ -42,13 +42,6 @@ Dixit is a creative and engaging board game that revolves around storytelling an
 
 - In either case, the player with the most points at the end of the game is declared the winner.
 
-## Deck Information
-
-- The Dixit base game and each expansion include 84 cards.
-- You can mix and match cards from different sets as desired.
-
-Enjoy playing Dixit and let your creativity run wild!
-
 # Analysis Assumptions
 This analysis is based on a six-player game of Dixit. Having fewer players would alter the odds of guessing accurately.
 
